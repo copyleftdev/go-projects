@@ -1,0 +1,4 @@
+[submodule "src/go-web"]
+	path = src/go-web
+	url = https://github.com/copyleftdev/go-web.git
+	branch = devel-web
